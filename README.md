@@ -6,6 +6,7 @@ This repository provides some scripts to generate NOR mapped netlists, using Gen
 + ABC : https://github.com/berkeley-abc/abc
 
 The generated netlist can be used directly for technology mapping algorithms for in-memory computing using MAGIC operations.
++ https://github.com/debjyoti0891/arche
 + https://github.com/RotemBenHur/SIMPLE-MAGIC
 
   
