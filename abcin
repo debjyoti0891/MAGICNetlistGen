@@ -1,0 +1,8 @@
+strash
+resyn
+resyn2
+resyn2rs
+compress2rs
+read_library genmaj.genlib
+map
+write_verilog optimaj.v

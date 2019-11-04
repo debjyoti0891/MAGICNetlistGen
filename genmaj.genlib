@@ -1,0 +1,6 @@
+GATE inv1   20   O=!a;       PIN * INV 1 999 0.9 0.3 0.9 0.3
+GATE nor2   10   O=!(a+b);   PIN * INV 1 999 1.4 0.5 1.4 0.5
+GATE maj3   1   O=a*b+b*c+c*a; PIN * INV 1 999 1.4 0.5 1.4 0.5
+GATE buf        1       O=a;            PIN * NONINV 1 999 1.0 0.0 1.0 0.0
+GATE zero   0   O=CONST0;
+GATE one    0   O=CONST1;
